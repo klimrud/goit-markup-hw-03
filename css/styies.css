@@ -80,7 +80,7 @@ body {
 .header {
   padding-top: 24px;
   padding-bottom: 25px;
-
+  border: 1px solid #ECECEC;
 }
 
 .header-navigation {
